@@ -50,6 +50,4 @@ Use generated CSV files with visualization tools of choice to analyze backup per
 Configuration
 Adjust constants in backup_main.py for maximum retries (MAX_RETRIES) and storage threshold (THRESHOLD) as needed.
 
-Contributors
-Anshul Sharma
-Suraj Kumar Patel
+
